@@ -54,6 +54,12 @@ How to make the right decision?
 - Merge Sort
 - Quick Sort
 
+**Elementary sort**
+
+- Bubble Sort
+- Insertion Sort
+- Selection Sort
+
 ---
 
 ## Big Os
@@ -67,3 +73,9 @@ How to make the right decision?
 <img src="./assets/images/common-ds-ops.png" alt="Common Data Structure Operations" style="width: 70%; padding: 20px; border-radius: 10px; border: 1px solid #ddd;">
 
 <img src="./assets/images/array-sorting.png" alt="Array Sorting" style="width: 70%; padding: 20px; border-radius: 10px; border: 1px solid #ddd;">
+
+## Useful Ressources
+
+- [Know Thy Complexities](https://www.bigocheatsheet.com/)
+- [Sorting Algorithms Animations](https://www.toptal.com/developers/sorting-algorithms)
+- [Visualize data structures and algorithms through animation](https://visualgo.net/en)
