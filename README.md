@@ -45,6 +45,14 @@
 - 3- Get closer and closer and return when needed. Usually you have 2 returns (1 for the base case and 1 for the recursive case).
 
 **Sorting**
+What sorting algorithm to choose based on the problem?
+How to make the right decision?
+
+- Bubble Sort
+- Insertion Sort
+- Selection Sort
+- Merge Sort
+- Quick Sort
 
 ---
 
@@ -53,3 +61,7 @@
 **O(1)** Constant - no loops
 **O(log N)** Logarithmic - usually searching algorithms have log(n) if they are sorted (Binary Search)
 **O(N)** Linear - for loops while loops
+
+### Big-O Complexity Chart
+
+<img src="./assets/images/big-o.png" alt="Big O Complexity Chart" style="width: 70%; padding: 20px; border-radius: 10px; border: 1px solid #ddd;">
