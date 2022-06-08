@@ -58,10 +58,12 @@ How to make the right decision?
 
 ## Big Os
 
-**O(1)** Constant - no loops
-**O(log N)** Logarithmic - usually searching algorithms have log(n) if they are sorted (Binary Search)
-**O(N)** Linear - for loops while loops
-
-### Big-O Complexity Chart
+- **O(1)** Constant - no loops
+- **O(log N)** Logarithmic - usually searching algorithms have log(n) if they are sorted (Binary Search)
+- **O(N)** Linear - for loops while loops
 
 <img src="./assets/images/big-o.png" alt="Big O Complexity Chart" style="width: 70%; padding: 20px; border-radius: 10px; border: 1px solid #ddd;">
+
+<img src="./assets/images/common-ds-ops.png" alt="Common Data Structure Operations" style="width: 70%; padding: 20px; border-radius: 10px; border: 1px solid #ddd;">
+
+<img src="./assets/images/array-sorting.png" alt="Array Sorting" style="width: 70%; padding: 20px; border-radius: 10px; border: 1px solid #ddd;">
