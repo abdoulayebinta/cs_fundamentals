@@ -56,9 +56,13 @@ How to make the right decision?
 
 **Elementary sort**
 
-- Bubble Sort
+- Bubble Sort - **O(n^2)**
 - Insertion Sort
-- Selection Sort
+- Selection Sort - **O(n^2)**
+
+**NB:**:
+
+- When the data set is small or data is nearly sorted, use insertion sort over other sorting algorithms.
 
 ---
 
