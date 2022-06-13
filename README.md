@@ -98,3 +98,7 @@ How to make the right decision?
   - Finding the shortest path
   - Closer Nodes
   - Require more memory (downside)
+- **DFS**
+  - Less memory
+  - Does Path Exist?
+  - Can Get Slow
