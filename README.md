@@ -83,3 +83,18 @@ How to make the right decision?
 - [Know Thy Complexities](https://www.bigocheatsheet.com/)
 - [Sorting Algorithms Animations](https://www.toptal.com/developers/sorting-algorithms)
 - [Visualize data structures and algorithms through animation](https://visualgo.net/en)
+
+## Searching + Traversal
+
+- Linear Search
+- Binary Search
+- Depth First Search (DFS)
+- Breadth First search (BFS)
+
+### BFS + DFS
+
+- All traverals are **O(n)**
+- **BFS** is good for
+  - Finding the shortest path
+  - Closer Nodes
+  - Require more memory (downside)
