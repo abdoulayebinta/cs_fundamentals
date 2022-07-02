@@ -102,3 +102,14 @@ How to make the right decision?
   - Less memory
   - Does Path Exist?
   - Can Get Slow
+
+### Dynamic Programming
+
+Divide and Conquer + Memmoization
+
+#### Can we use DP to solve a problem ?
+
+1. Can be divided into subproblem
+2. Recursive solution
+3. Are there repetitive subproblems?
+4. Memoize subproblems
